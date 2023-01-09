@@ -1,1 +1,1 @@
-## %username%\.m2\repository
+## %username%\\.m2\repository
