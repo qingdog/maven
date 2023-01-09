@@ -1,3 +1,2 @@
 ```java
-%username%\\.m2\repository
-```java
+%username%\.m2\repository
