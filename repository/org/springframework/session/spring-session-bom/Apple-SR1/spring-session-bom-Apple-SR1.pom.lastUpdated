@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 18:16:35 CST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1671790595803
+https\://repo.spring.io/milestone/.error=
+@default-spring-milestones-http\://repo.spring.io/milestone/.lastUpdated=1671790590665
+https\://repo.spring.io/milestone/.lastUpdated=1671790591729
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.springframework.session\:spring-session-bom\:pom\:Apple-SR1 from/to spring-milestones (http\://repo.spring.io/milestone)\: Failed to transfer file http\://repo.spring.io/milestone/org/springframework/session/spring-session-bom/Apple-SR1/spring-session-bom-Apple-SR1.pom with status code 308
+https\://repo.spring.io/snapshot/.error=
+@default-spring-snapshots-http\://repo.spring.io/snapshot/.lastUpdated=1671790590102
+https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1671790593896
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework.session\:spring-session-bom\:pom\:Apple-SR1 from/to spring-snapshots (http\://repo.spring.io/snapshot)\: Failed to transfer file http\://repo.spring.io/snapshot/org/springframework/session/spring-session-bom/Apple-SR1/spring-session-bom-Apple-SR1.pom with status code 308
+https\://repo.spring.io/snapshot/.lastUpdated=1671790592802
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=

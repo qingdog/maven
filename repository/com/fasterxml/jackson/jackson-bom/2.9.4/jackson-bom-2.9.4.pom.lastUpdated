@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 18:15:11 CST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1671790511622
+https\://repo.spring.io/milestone/.error=
+@default-spring-milestones-http\://repo.spring.io/milestone/.lastUpdated=1671790506270
+https\://repo.spring.io/milestone/.lastUpdated=1671790507363
+http\://repo.spring.io/milestone/.error=Could not transfer artifact com.fasterxml.jackson\:jackson-bom\:pom\:2.9.4 from/to spring-milestones (http\://repo.spring.io/milestone)\: Failed to transfer file http\://repo.spring.io/milestone/com/fasterxml/jackson/jackson-bom/2.9.4/jackson-bom-2.9.4.pom with status code 308
+https\://repo.spring.io/snapshot/.error=
+@default-spring-snapshots-http\://repo.spring.io/snapshot/.lastUpdated=1671790505726
+https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1671790509706
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact com.fasterxml.jackson\:jackson-bom\:pom\:2.9.4 from/to spring-snapshots (http\://repo.spring.io/snapshot)\: Failed to transfer file http\://repo.spring.io/snapshot/com/fasterxml/jackson/jackson-bom/2.9.4/jackson-bom-2.9.4.pom with status code 308
+https\://repo.spring.io/snapshot/.lastUpdated=1671790508487
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=

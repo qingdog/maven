@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 18:27:23 CST 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1671791243669
+https\://repo.spring.io/libs-snapshot/.error=Could not transfer artifact org.springframework\:spring-core\:jar\:5.1.6.RELEASE from/to spring-libs-snapshot (https\://repo.spring.io/libs-snapshot)\: repo.spring.io
+@default-spring-milestones-http\://repo.spring.io/milestone/.lastUpdated=1671791243736
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.springframework\:spring-core\:jar\:5.1.6.RELEASE from/to spring-milestones (http\://repo.spring.io/milestone)\: repo.spring.io
+@default-spring-libs-release-https\://repo.spring.io/libs-release/.lastUpdated=1671791243773
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-core\:jar\:5.1.6.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: Network is unreachable\: connect
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.springframework\:spring-core\:jar\:5.1.6.RELEASE from/to spring-libs-release (https\://repo.spring.io/libs-release)\: repo.spring.io
+@default-spring-snapshots-http\://repo.spring.io/snapshot/.lastUpdated=1671791243699
+@default-spring-libs-snapshot-https\://repo.spring.io/libs-snapshot/.lastUpdated=1671791243793
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework\:spring-core\:jar\:5.1.6.RELEASE from/to spring-snapshots (http\://repo.spring.io/snapshot)\: repo.spring.io

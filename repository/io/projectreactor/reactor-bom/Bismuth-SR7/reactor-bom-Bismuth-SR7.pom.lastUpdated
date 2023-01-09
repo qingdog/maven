@@ -1,0 +1,13 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 18:15:46 CST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1671790546266
+https\://repo.spring.io/milestone/.error=
+@default-spring-milestones-http\://repo.spring.io/milestone/.lastUpdated=1671790537926
+https\://repo.spring.io/milestone/.lastUpdated=1671790539020
+http\://repo.spring.io/milestone/.error=Could not transfer artifact io.projectreactor\:reactor-bom\:pom\:Bismuth-SR7 from/to spring-milestones (http\://repo.spring.io/milestone)\: Failed to transfer file http\://repo.spring.io/milestone/io/projectreactor/reactor-bom/Bismuth-SR7/reactor-bom-Bismuth-SR7.pom with status code 308
+https\://repo.spring.io/snapshot/.error=
+@default-spring-snapshots-http\://repo.spring.io/snapshot/.lastUpdated=1671790537379
+https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1671790541352
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact io.projectreactor\:reactor-bom\:pom\:Bismuth-SR7 from/to spring-snapshots (http\://repo.spring.io/snapshot)\: Failed to transfer file http\://repo.spring.io/snapshot/io/projectreactor/reactor-bom/Bismuth-SR7/reactor-bom-Bismuth-SR7.pom with status code 308
+https\://repo.spring.io/snapshot/.lastUpdated=1671790540175
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=

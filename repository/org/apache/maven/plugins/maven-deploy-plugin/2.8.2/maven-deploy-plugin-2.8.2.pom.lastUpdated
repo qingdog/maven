@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 18:27:25 CST 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1671791245823
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-deploy-plugin\:pom\:2.8.2 from/to central (https\://repo.maven.apache.org/maven2)\: Network is unreachable\: connect

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 18:27:23 CST 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1671791243654
+https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact javax.activation\:javax.activation-api\:jar\:1.2.0 from/to jvnet-nexus-releases (https\://maven.java.net/content/repositories/releases/)\: \u4E0D\u77E5\u9053\u8FD9\u6837\u7684\u4E3B\u673A\u3002 (maven.java.net)
+@default-jvnet-nexus-releases-https\://maven.java.net/content/repositories/releases/.lastUpdated=1671791243797
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact javax.activation\:javax.activation-api\:jar\:1.2.0 from/to central (https\://repo.maven.apache.org/maven2)\: Network is unreachable\: connect

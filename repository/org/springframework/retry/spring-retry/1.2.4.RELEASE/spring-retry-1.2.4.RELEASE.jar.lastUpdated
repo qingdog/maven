@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 18:27:23 CST 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1671791243574
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.retry\:spring-retry\:jar\:1.2.4.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: Network is unreachable\: connect

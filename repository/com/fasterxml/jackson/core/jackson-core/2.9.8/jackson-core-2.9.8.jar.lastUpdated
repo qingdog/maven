@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 18:27:23 CST 2022
+https\://dl.bintray.com/jwtk/coveralls-maven-plugin/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-core\:jar\:2.9.8 from/to bintray-jwtk-coveralls-maven-plugin (https\://dl.bintray.com/jwtk/coveralls-maven-plugin)\: \u4E0D\u77E5\u9053\u8FD9\u6837\u7684\u4E3B\u673A\u3002 (dl.bintray.com)
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1671791243672
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-core\:jar\:2.9.8 from/to central (https\://repo.maven.apache.org/maven2)\: Network is unreachable\: connect
+@default-bintray-jwtk-coveralls-maven-plugin-https\://dl.bintray.com/jwtk/coveralls-maven-plugin/.lastUpdated=1671791243805
