@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 02 18:15:20 CST 2023
+hamcrest-2.1.jar>central=
+hamcrest-2.1.jar>aliyunmaven=
+hamcrest-2.1.pom>central=
+hamcrest-2.1.pom>aliyunmaven=

@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 23 18:27:22 CST 2022
+#Thu Feb 02 18:16:19 CST 2023
+https\://maven.aliyun.com/repository/central/.lastUpdated=1675332979778
 @default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1671791242995
 https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:pom\:4.5.8 from/to central (https\://repo.maven.apache.org/maven2)\: Network is unreachable\: connect

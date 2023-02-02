@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Jan 18 20:43:23 CST 2023
+#Thu Feb 02 18:15:20 CST 2023
+mybatis-3.5.7.jar>aliyunmaven=
 mybatis-3.5.7.jar>central=
 mybatis-3.5.7.pom>central=
+mybatis-3.5.7.pom>aliyunmaven=

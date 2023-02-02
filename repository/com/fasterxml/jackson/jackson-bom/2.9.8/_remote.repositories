@@ -1,3 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 23 18:12:35 CST 2022
+#Thu Feb 02 18:15:10 CST 2023
 jackson-bom-2.9.8.pom>central=
+jackson-bom-2.9.8.pom>aliyunmaven=

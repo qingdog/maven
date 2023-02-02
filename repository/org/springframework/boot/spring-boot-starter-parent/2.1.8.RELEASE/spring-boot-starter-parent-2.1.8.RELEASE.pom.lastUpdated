@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 02 22:57:18 CST 2023
+@default-aliyunmaven-https\://maven.aliyun.com/repository/central/.lastUpdated=1675349838303
+https\://maven.aliyun.com/repository/central/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:2.1.8.RELEASE from/to aliyunmaven (https\://maven.aliyun.com/repository/central)\: transfer failed for https\://maven.aliyun.com/repository/central/org/springframework/boot/spring-boot-starter-parent/2.1.8.RELEASE/spring-boot-starter-parent-2.1.8.RELEASE.pom

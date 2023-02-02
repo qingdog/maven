@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 02 18:16:40 CST 2023
+httpcore-4.4.11.jar>aliyunmaven=
+httpcore-4.4.11.pom>aliyunmaven=
+httpcore-4.4.11.pom>central=

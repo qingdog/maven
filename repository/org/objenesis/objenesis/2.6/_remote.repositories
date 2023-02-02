@@ -1,3 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 23 18:22:22 CST 2022
+#Thu Feb 02 18:15:20 CST 2023
+objenesis-2.6.jar>central=
+objenesis-2.6.jar>aliyunmaven=
 objenesis-2.6.pom>central=
+objenesis-2.6.pom>aliyunmaven=

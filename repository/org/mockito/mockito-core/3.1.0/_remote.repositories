@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 02 18:15:20 CST 2023
+mockito-core-3.1.0.jar>central=
+mockito-core-3.1.0.pom>aliyunmaven=
+mockito-core-3.1.0.pom>central=
+mockito-core-3.1.0.jar>aliyunmaven=

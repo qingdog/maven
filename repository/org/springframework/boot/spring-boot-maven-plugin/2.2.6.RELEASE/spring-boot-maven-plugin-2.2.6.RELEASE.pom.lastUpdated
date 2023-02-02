@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 02 18:15:21 CST 2023
+https\://maven.aliyun.com/repository/central/.lastUpdated=1675332921960
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1675330466695
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-maven-plugin\:pom\:2.2.6.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.2.6.RELEASE/spring-boot-maven-plugin-2.2.6.RELEASE.pom

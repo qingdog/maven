@@ -1,3 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Jan 08 09:11:59 CST 2023
+#Thu Feb 02 18:16:12 CST 2023
+jcl-over-slf4j-1.5.6.pom>aliyunmaven=
+jcl-over-slf4j-1.5.6.jar>aliyunmaven=
+jcl-over-slf4j-1.5.6.jar>central=
 jcl-over-slf4j-1.5.6.pom>central=

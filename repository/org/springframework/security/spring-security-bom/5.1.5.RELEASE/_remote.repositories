@@ -1,3 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 23 18:13:22 CST 2022
+#Thu Feb 02 18:15:12 CST 2023
 spring-security-bom-5.1.5.RELEASE.pom>central=
+spring-security-bom-5.1.5.RELEASE.pom>aliyunmaven=

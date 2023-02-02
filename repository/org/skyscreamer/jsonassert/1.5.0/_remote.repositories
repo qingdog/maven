@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Jan 18 20:43:23 CST 2023
+#Thu Feb 02 18:15:20 CST 2023
+jsonassert-1.5.0.pom>aliyunmaven=
 jsonassert-1.5.0.jar>central=
 jsonassert-1.5.0.pom>central=
+jsonassert-1.5.0.jar>aliyunmaven=
